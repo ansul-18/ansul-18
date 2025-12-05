@@ -3,10 +3,31 @@
 
 ## 👨‍💻 About Me
 
-I am a Computer Science and Engineering student with a strong interest in **Java** and **Data Structures & Algorithms**. I enjoy building small projects and improving my coding fundamentals step-by-step.
+## 👨‍💻 About Me
 
-I am currently learning **web development** and exploring technologies like **HTML, CSS, JavaScript, and React**. My goal is to develop a solid foundation before moving toward full-stack development.
+🎓 I am a **B.Tech Computer Science** student  
+☕ Skilled in **Java**  
+🧠 Strong foundation in **DSA (Data Structures & Algorithms)**  
+🚀 Currently learning **Java Full-Stack Development**
 
-I am also working on **Coding Playground**, a learning-focused platform that includes a real-time compiler and curated programming problems.
+---
 
-I believe in consistency, clean code, and continuous learning.
+### 🛠️ Tech Stack & Tools
+
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![Spring](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🎯 Goals
+
+- 🔥 Become industry-ready Java Full-Stack Developer  
+- 📚 Build strong DSA problem-solving skills  
+- 🤝 Work on real-world projects & open source  
+
